@@ -1,0 +1,11 @@
+/build/
+/cmake-build-*/
+/run/
+*.log
+*.db
+*.o
+*.obj
+*.lib
+*.dll
+*.so
+*.a
